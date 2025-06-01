@@ -1,4 +1,4 @@
- ## Hi there 👋
+ ## Olá me chamo Yuri, tenho 19 anos.
 
 - 🔭 Atualmente estou trabalhando na areá de T.I (Analista de suporte computacional Junior 1)
 - 🌱 Atualmente estou aprendendo Python e mySQL
