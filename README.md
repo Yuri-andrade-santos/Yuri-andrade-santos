@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente estou trabalhando na areá de T.I (Analista de suporte computacional Junior 1)
 - 🌱 Atualmente estou aprendendo Python e mySQL
-- 📫 Como entrar em contato comigo:
-&nbsp;&nbsp;&nbsp;Email: yuri.santos11062005@gmail.com ,
+- 📫 Como entrar em contato comigo:<br>
+&nbsp;&nbsp;&nbsp;Email: yuri.santos11062005@gmail.com <br>
 &nbsp;&nbsp;&nbsp;Numero: +55 (11) 96461-1934
 
 <div style="display: inline_block"><br>
