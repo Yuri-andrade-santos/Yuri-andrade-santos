@@ -56,22 +56,18 @@ Me chamo Yuri Andrade Santos, tenho 20 anos e sou de São Paulo. Atualmente, est
 <br/>
 <br/>
 
-### ESTATÍSTICAS
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Yuri-andrade-santos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  ##
+**Skills**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-andrade-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9include_all_commits=true" 
-  />
+<img
+    aling="left"
+    alt="Git"
+    title="Github Copilit"
+    width="100px"
+    style="padding-rigth: 10px;"
+    src="https://images.credly.com/images/6933c05e-f694-4504-a3da-16c9c102a63d/blob"
+/>
 
-</p>
+<br/>
+<br/>
+
