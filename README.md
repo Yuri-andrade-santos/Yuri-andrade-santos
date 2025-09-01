@@ -20,6 +20,7 @@ Minha experiência prática em diagnóstico de hardware, software, redes e segur
 ### 📫 Contato
 Email: yuri.santos11062005@gmail.com  
 Telefone: +55 (11) 96461-1934  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-andrade-santos-4a785b256/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yuriandrade.netlify.app/#inicio)
 ---
