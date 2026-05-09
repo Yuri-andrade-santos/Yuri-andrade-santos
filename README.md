@@ -12,7 +12,7 @@ Minha experiência prática em diagnóstico de hardware, software, redes e segur
 - 🌱 Estudando Python e MySQL.
 
 ### 🔧 Principais Competências
-- **Desenvolvimento Web/Software:** Lógica de Programação, Arquitetura Full Stack (foco em Back-End), Python, HTML, CSS.
+- **Desenvolvimento Web/Software:** Lógica de Programação, Arquitetura Full Stack (foco em Back-End), Python, Node.js, HTML, CSS.
 - **Tecnologias:** Docker, GitHub.
 - **Infraestrutura e Redes:** Diagnóstico e Manutenção de Sistemas, Configuração de Redes, Zabbix, Grafana, Linux.
 - **Segurança:** Conhecimentos básicos e práticos em Firewall.
