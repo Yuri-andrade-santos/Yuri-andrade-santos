@@ -1,5 +1,5 @@
 ## 👨‍💻 Yuri Andrade Santos
-Me chamo Yuri Andrade Santos, tenho 20 anos e sou de São Paulo. Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera.
+Me chamo Yuri Andrade Santos, tenho 21 anos e sou de São Paulo. Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera.
 
 **Desenvolvedor de Software e Web (Full Stack com foco em Back-End)** com uma base robusta em Suporte e Infraestrutura de TI. Minha paixão é construir soluções tecnológicas eficientes, seguras e de alta performance.
 
